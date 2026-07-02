@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
