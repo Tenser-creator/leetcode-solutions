@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
