@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
