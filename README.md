@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
