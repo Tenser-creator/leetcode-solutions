@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0140-word-break-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0367-valid-perfect-square) |
