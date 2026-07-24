@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1345-jump-game-iv) |
 ## String
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0100-same-tree) |
+| [1345-jump-game-iv](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1345-jump-game-iv) |
 ## Greedy
 |  |
 | ------- |
