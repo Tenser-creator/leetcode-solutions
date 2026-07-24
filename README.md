@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0344-reverse-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
 | ------- |
