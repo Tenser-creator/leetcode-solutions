@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
