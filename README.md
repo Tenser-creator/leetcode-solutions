@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0344-reverse-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -223,11 +226,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
