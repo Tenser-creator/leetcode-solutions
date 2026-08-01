@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
