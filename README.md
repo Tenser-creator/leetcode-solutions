@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0136-single-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tenser-creator/leetcode-solutions/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tenser-creator/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
